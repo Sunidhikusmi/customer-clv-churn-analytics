@@ -116,6 +116,9 @@ dashboard/clv_churn_dashboard.pbix
 
 ## Dashboard Preview
 ![CLV & Churn Dashboard](dashboard/dashboard_overview.png)
+The full interactive Power BI dashboard is available as:
+`dashboard/clv_churn_dashboard.pbix`
+
 
 ---
 
